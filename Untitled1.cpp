@@ -11,8 +11,9 @@ void cong(int a, int b)
 }
 
 void tru(int a, int b)
-void kk(int a, int c)
+
 //Them dong nay trong code
+//Them dong nay trong code nua
 int main()
 {
 	cout << "Hao";

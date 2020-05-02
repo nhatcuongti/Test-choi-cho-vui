@@ -15,6 +15,7 @@ void tru(int a, int b)
 //Them dong nay trong code
 //Them dong nay trong code nua
 void sua them dong nay(int a, int b)
+void lan cuoi xong roi nghi(int a, int b)
 int main()
 {
 	cout << "Hao";

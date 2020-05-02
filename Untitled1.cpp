@@ -16,6 +16,8 @@ void nhan(int a, int b)
 {
 	int p = a * b;
 }
+
+void swap(int a, int b);
 //Them dong nay trong code
 //Them dong nay trong code nua
 int main()

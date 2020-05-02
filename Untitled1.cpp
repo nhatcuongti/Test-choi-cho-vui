@@ -11,6 +11,7 @@ void cong(int a, int b)
 }
 
 void tru(int a, int b)
+void kk(int a, int c)
 //Them dong nay trong code
 int main()
 {

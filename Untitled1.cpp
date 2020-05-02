@@ -9,7 +9,7 @@ void cong(int a, int b)
 {
 	int tam = a;
 }
-
+//Them dong nay trong code
 int main()
 {
 	cout << "Hao";

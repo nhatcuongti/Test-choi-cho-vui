@@ -12,12 +12,6 @@ void cong(int a, int b)
 
 void tru(int a, int b)
 
-void nhan(int a, int b)
-{
-	int p = a * b;
-}
-
-void swap(int a, int b);
 //Them dong nay trong code
 //Them dong nay trong code nua
 int main()
